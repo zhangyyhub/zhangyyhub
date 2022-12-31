@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Yangyang Zhang.
-- 👀 I’m interested in python, golang, kubernetes etc.
-- 📫 Can contact me by email(zyyyxdz@outlook.com).
+## 👋 Hi, I’m Yangyang Zhang.
+
+### 🤵🏻About Me
+
+- 💡 I like to explore new technologies and develop software solutions and hacks.
+- 🧑🏻‍💻 I'm currently learning python, golang and kubernetes.
+- 📫 You can shoot me an email at zyyyxdz@outlook.com! I will reply as soon as possible.
 
 <!---
 zhangyyhub/zhangyyhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
