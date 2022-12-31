@@ -31,3 +31,14 @@
 <img src="data/cert-huawei.jpg" width=200/>
 <img src="data/cert-cka.jpg" width=200/>
 </figure>
+
+
+
+<img src="data/cert-aliyun.jpg" width="260"/> <img src="data/cert-huawei.jpg" width="260"/> <img src="data/cert-cka.jpg" width="260"/>
+
+
+
+
+
+
+
