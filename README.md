@@ -26,11 +26,7 @@
 
 ### Certificates and Honors
 
-<img src="data/cert-aliyun.jpg" width="280"/> <img src="data/cert-huawei.jpg" width="280"/> <img src="data/cert-cka.jpg" width="280"/>
-
-
-
-
+<img src="data/cert-aliyun.jpg" width="260"/> <img src="data/cert-huawei.jpg" width="260"/> <img src="data/cert-cka.jpg" width="260"/>
 
 
 
