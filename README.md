@@ -1,4 +1,4 @@
-## I‘m Joker Zhang
+## I‘m Harve Zhang
 
 - :bulb: I like to explore new technologies and develop software solutions and hacks.
 - :computer: I'm currently learning python, golang and kubernetes.
@@ -15,9 +15,3 @@
 ## Tools and Environments
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,md,vscode,redis,mysql)](https://skillicons.dev)
-
-
-
-
-
-
